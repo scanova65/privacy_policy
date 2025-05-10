@@ -29,7 +29,7 @@ Welcome to Scanova! We value your privacy and are committed to protecting your p
 - We may update this Privacy Policy as our app evolves. We will notify you of changes by posting the new policy here with an updated date.
 
 ## 7. Contact Us
-- If you have questions about this Privacy Policy, contact us at [support@scanovaapp.com](mailto:support@scanovaapp.com).
+- If you have questions about this Privacy Policy, contact us at [scanovakarmacharya65@gmail.com](mailto:scanovakarmacharya65@gmail.com).
 - You can also request the deletion of any feedback data you’ve shared by contacting us.
 
 By using Scanova, you agree to this Privacy Policy. Thank you for trusting us with your privacy!
